@@ -10,6 +10,8 @@ THIS TOOL HAS BEEN PROGRAMED BY MENA MAGDY TO HELP U IN CALCULATING IN MORE MATH
 
 
  www.m3lomatthephone.blogspot.com
+ 
+ 
 COPY THIS COMMENT ON YOUR TERMINAL IN TERMUX TO DON'T GET ERORR (S) TERMUX apt update && apt upgrade ############################## pkg update && pkg upgarde ############################## pkg install git y ############################## pkg install python y ############################## pkg install python2 y ############################## pkg install python3 y ############################## pkg install zip ############################## pkg install unzip ############################## pkg install ssh ############################## pkg install openssh ############################## pkg install bash ############################## pkg install host ############################## END COMMENDED FOR TERMUX
 
 STARTING KALI LINEX ●○●○ COPY THIS AND PASTE ON YOUR TERMINAL ON YOUR KALI & UPANTU & PARROT OS
